@@ -4,6 +4,5 @@ This repository contain code corresponding to the algorithms of the paper "Enhan
 
 ## Overview
 
-We share code for two main parts of the proposal:
-- Global interpretability
-- Local interpretability
+## Requirements
+- Python 2.7
