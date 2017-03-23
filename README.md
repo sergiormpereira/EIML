@@ -6,3 +6,6 @@ This repository contain code corresponding to the algorithms of the paper "Enhan
 
 ## Requirements
 - Python 2.7
+- Numpy
+- pylab
+- [LIME](https://github.com/marcotcr/lime) 
