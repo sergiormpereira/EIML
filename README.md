@@ -6,6 +6,7 @@ This repository contains code corresponding to the algorithms of the paper "Enha
 
 ## Requirements
 - Python 2.7
-- Numpy
+- Numpy 1.11.2
 - pylab
+- joblib 0.10.3
 - [LIME](https://github.com/marcotcr/lime) 
