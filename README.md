@@ -4,8 +4,12 @@ This repository contains code corresponding to the algorithms of the paper "Enha
 
 ## Overview
 
+The scrips global_interp.py and local_interp.py contain the implementation of the algorithms for the global and local interpretability, respectively. utils.py includes auxiliary code.
+
+To run the code, please download the data from this [link](https://uminho365-my.sharepoint.com/personal/id5692_uminho_pt/_layouts/15/guestaccess.aspx?docid=071160f2e810645838c4d7b6bcf810616&authkey=AYIC4NVo_eISktwwTR-axKY) and unzip it in the same directory as the scripts. Then, just run each script in the command line.
+
 ## Requirements
-The code was tested with the following packages and corresponding versions:
+The code was tested (in Linux Mint 18) with the following packages and corresponding versions:
 
 - Python 2.7
 - numpy 1.11.2
