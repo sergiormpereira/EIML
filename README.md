@@ -5,8 +5,14 @@ This repository contains code corresponding to the algorithms of the paper "Enha
 ## Overview
 
 ## Requirements
+The code was tested with the following packages and corresponding versions:
+
 - Python 2.7
-- Numpy 1.11.2
-- pylab
+- numpy 1.11.2
+- nibabel 2.1.0
 - joblib 0.10.3
-- [LIME](https://github.com/marcotcr/lime) 
+- [LIME](https://github.com/marcotcr/lime) 0.1.1.16
+- h5py 2.6.0
+- progressbar 3.10.1
+- scipy 0.18.1
+- matplotlib 1.5.3
