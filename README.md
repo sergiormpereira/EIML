@@ -1,6 +1,6 @@
 # EIML
 
-This repository contains code corresponding to the algorithms of the paper "Enhancing interpretability of automatically extracted machine learning features: application to a RBM-Random Forest system on brain lesion segmentation" **(under review)**
+This repository contains code corresponding to the algorithms of the paper: Pereira, Sérgio, et al., "Enhancing interpretability of automatically extracted machine learning features: application to a RBM-Random Forest system on brain lesion segmentation", Medical Image Analysis, Volume 44, February 2018. [link](https://www.sciencedirect.com/science/article/pii/S1361841517301901)
 
 ## Overview
 
