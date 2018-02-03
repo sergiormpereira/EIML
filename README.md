@@ -10,7 +10,7 @@ Machine learning systems are achieving better performances at the cost of becomi
 
 The scrips global_interp.py and local_interp.py contain the implementation of the algorithms for the global and local interpretability, respectively. utils.py includes auxiliary code.
 
-To run the code, please download the data from this [link](https://uminho365-my.sharepoint.com/personal/id5692_uminho_pt/_layouts/15/guestaccess.aspx?docid=071160f2e810645838c4d7b6bcf810616&authkey=AYIC4NVo_eISktwwTR-axKY) and unzip it in the same directory as the scripts. Then, just run each script in the command line.
+To run the code, please download the data from this [link](https://onedrive.live.com/download?cid=2EFF66F88186764E&resid=2EFF66F88186764E%21173&authkey=APZnjxNEA9j3rSY) and unzip it in the same directory as the scripts. Then, just run each script in the command line.
 
 ## Requirements
 The code was tested (in Linux Mint 18) with the following packages and corresponding versions:
